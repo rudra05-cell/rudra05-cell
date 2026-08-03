@@ -18,7 +18,7 @@
 
 ### 🛠 Tech Stack & Tools
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=python,mysql,go,css,html,vscode,canva&theme=dark" />
+  <img src="https://skillicons.dev/icons?i=python,mysql,PowerBi,vscode,canva&theme=dark" />
 </p>
 
 ---
